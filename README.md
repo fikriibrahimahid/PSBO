@@ -65,4 +65,10 @@ Cara kerjanya pun cukup mudah, dari sistem yang sudah ada dan manajemen aplikasi
 <img width="203" alt="ss psbo" src="https://user-images.githubusercontent.com/60084283/119315016-92951d80-bc9f-11eb-8ade-8377de8958de.png">
 <img width="501" alt="ss psbo2" src="https://user-images.githubusercontent.com/60084283/119315119-b6f0fa00-bc9f-11eb-88c8-667a54cc8640.png">
 
-
+## Link Pendukung 
+### Figma
+ https://www.figma.com/file/PpQgL8Uk3R1dXLKE2wcTcY/PSBO?node-id=7%3A2
+  
+### Trello
+ https://trello.com/kelompok1psboparalel2genap20202021
+ 
