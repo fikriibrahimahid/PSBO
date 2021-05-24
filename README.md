@@ -65,8 +65,7 @@ Menumpuk kotak Uno sebanyak-banyaknya dan setinggi-tingginya.
 </table>
 
 ## Screenshot
-![Uno Stacko Tower 05_01_2021 20_27_28](https://user-images.githubusercontent.com/60084283/103651980-fb038c80-4f94-11eb-9fc9-e00d2a0c1f28.png)
-![Uno Stacko Tower 05_01_2021 20_28_05](https://user-images.githubusercontent.com/60084283/103652006-0656b800-4f95-11eb-9c9f-3603686fc365.png)
-![Uno Stacko Tower 05_01_2021 20_28_33](https://user-images.githubusercontent.com/60084283/103652022-0bb40280-4f95-11eb-97cd-f920864119c6.png)
-![Uno Stacko Tower 05_01_2021 20_28_45](https://user-images.githubusercontent.com/60084283/103652037-0fe02000-4f95-11eb-909b-e64d7b368ce2.png)
+<img width="203" alt="ss psbo" src="https://user-images.githubusercontent.com/60084283/119315016-92951d80-bc9f-11eb-8ade-8377de8958de.png">
+<img width="501" alt="ss psbo2" src="https://user-images.githubusercontent.com/60084283/119315119-b6f0fa00-bc9f-11eb-88c8-667a54cc8640.png">
+
 
