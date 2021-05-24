@@ -38,7 +38,7 @@ Cara kerjanya pun cukup mudah, dari sistem yang sudah ada dan manajemen aplikasi
       Karyadi Mochtar
     </td>
     <td>
-      ...
+      Backend
   </tr>
   <tr>
     <td>
