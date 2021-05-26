@@ -12,6 +12,9 @@ Cara kerjanya pun cukup mudah, dari sistem yang sudah ada dan manajemen aplikasi
 - Saya sebagai mahasiswa IPB, saya ingin adanya fitur room meeting yang tersedia langsung pada halaman home sehingga tidak perlu menunggu dari dosen ataupun bahkan mencari sendiri.
 - Saya sebagai Dosen IPB, saya ingin  adanya fitur room meeting yang tersedia langsung pada halaman home agar mahasiswa dapat langsung menghadiri kuliah daring secara on-time.
 
+## Dampak
+Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i IPB dalam menyelesaikan masalah dalam hal ini malas untuk mencari link perkuliahan/praktikum ataupun tidak bisa menemukan link tersebut. Sebab hal tersebut sedikit membuat semangat menjadi berkurang untuk menghadiri perkuliahan/praktikum. Ini berdasarkan pengalaman yang kami rasakan dan para narasumber yang pernah kami survei sebelumnya. Kedua adalah mengurangi adanya alibi mahasiswa/i yang tidak bisa menghadiri perkuliahan/praktikum yang disebabkan karena susah atau tidak bisa menemukan link tersebut. Tidak banyak dari mereka menggunakan alibi tersebut sebagai bentuk pembelaan.
+
 ## Developer
 <table>
   <th>
@@ -64,7 +67,7 @@ Cara kerjanya pun cukup mudah, dari sistem yang sudah ada dan manajemen aplikasi
       ...
 </table>
 
-## Screenshot
+## Ilustrasi Aplikasi
 <img width="203" alt="ss psbo" src="https://user-images.githubusercontent.com/60084283/119315016-92951d80-bc9f-11eb-8ade-8377de8958de.png">
 <img width="501" alt="ss psbo2" src="https://user-images.githubusercontent.com/60084283/119315119-b6f0fa00-bc9f-11eb-88c8-667a54cc8640.png">
 
