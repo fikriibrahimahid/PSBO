@@ -67,6 +67,9 @@ Dampak yang dirasakan terhadap civitas IPB, pertama adalah membantu mahasiswa/i 
       ...
 </table>
 
+## Tech Stack
+  
+  
 ## Ilustrasi Aplikasi
 <img width="203" alt="ss psbo" src="https://user-images.githubusercontent.com/60084283/119315016-92951d80-bc9f-11eb-8ade-8377de8958de.png">
 <img width="501" alt="ss psbo2" src="https://user-images.githubusercontent.com/60084283/119315119-b6f0fa00-bc9f-11eb-88c8-667a54cc8640.png">
